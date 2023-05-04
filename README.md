@@ -89,12 +89,16 @@ Top view:
 
 Attachment mechanism
        In an Indian context the cattle owner puts a rope around its the neck. so, we are planning to attach our device on the rope using mechanism similar to a hose clamp
-this is better method as 
+this is better method as
+
 •	It avoids hurting animal
+
 •	Easy to attach
+
 •	make device more functional
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/108206047/236124521-a4d8b41a-4f12-410f-a20a-1e2636f6748d.png)
+
 
 ## WORKING DEMO OF THE PRODUCT:
  
