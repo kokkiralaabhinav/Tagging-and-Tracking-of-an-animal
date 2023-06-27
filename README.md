@@ -10,8 +10,7 @@ Currently, there are several methods used to locate missing animals, including p
 To address this issue, our project aims to develop a GPS-based system to track and locate missing animals quickly and help their owners find them. Our system will provide real-time location data for animals equipped with tracking collars, which can be accessed by pet owners through a user-friendly mobile app. By using this system, pet owners can quickly locate their missing animals and reunite with them, reducing the emotional and psychological impact of pet loss. Moreover, the system can help reduce the burden on animal shelters and rescue organizations by facilitating the return of lost pets to their families.
 
 ## METHODOLOGY:
-
-              To develop our GPS-based animal location system, we followed a multi-step process that included designing and implementing software and hardware components, conducting testing and validation, and collecting and analyzing data.
+To develop our GPS-based animal location system, we followed a multi-step process that included designing and implementing software and hardware components, conducting testing and validation, and collecting and analyzing data.
 
 ### Hardware Development:
                            We developed a cellular based tracking collar for animals that incorporates a GPS receiver and a wireless communication module to transmit location data to a central server. The collar was designed to be lightweight and durable.
