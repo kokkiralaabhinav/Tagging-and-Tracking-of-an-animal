@@ -13,16 +13,16 @@ To address this issue, our project aims to develop a GPS-based system to track a
 To develop our GPS-based animal location system, we followed a multi-step process that included designing and implementing software and hardware components, conducting testing and validation, and collecting and analyzing data.
 
 ### Hardware Development:
-                           We developed a cellular based tracking collar for animals that incorporates a GPS receiver and a wireless communication module to transmit location data to a central server. The collar was designed to be lightweight and durable.
+We developed a cellular based tracking collar for animals that incorporates a GPS receiver and a wireless communication module to transmit location data to a central server. The collar was designed to be lightweight and durable.
 
 ### Software Development:
-                           We developed a user-friendly algorithm that allows owners to request through the message app to get the google map link of its location to view the location of their missing animal on a map, set up geofencing boundaries, and receive notifications when their pet leaves a designated area. We also developed a backend server to receive and store location data from the tracking collars.
+We developed a user-friendly algorithm that allows owners to request through the message app to get the google map link of its location to view the location of their missing animal on a map, set up geofencing boundaries, and receive notifications when their pet leaves a designated area. We also developed a backend server to receive and store location data from the tracking collars.
 
 ### Testing and Validation:
-                         We conducted extensive testing of the tracking collar and mobile application to ensure they are reliable and accurate in locating missing animals. We tested the system in a variety of environments, including urban and rural areas, and under different weather conditions. We also conducted user testing to evaluate the usability and effectiveness of the mobile application.
+ We conducted extensive testing of the tracking collar and mobile application to ensure they are reliable and accurate in locating missing animals. We tested the system in a variety of environments, including urban and rural areas, and under different weather conditions. We also conducted user testing to evaluate the usability and effectiveness of the mobile application.
 
 ### Data Collection and Analysis:
-                    We collected and analyzed data on the performance of the tracking collar and mobile application, including location accuracy, battery life, and user feedback. We also collected data on the number of animals that were located using our system and the time it took to locate them.
+We collected and analyzed data on the performance of the tracking collar and mobile application, including location accuracy, battery life, and user feedback. We also collected data on the number of animals that were located using our system and the time it took to locate them.
 
 
 ## Flow Diagram & Proposed System:
